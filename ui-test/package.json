@@ -1,0 +1,15 @@
+{
+  "name": "wangting22-ui-test",
+  "version": "1.0.1",
+  "description": "",
+  "main": "ui-test.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wangting22-ui-test": "^1.0.1"
+  }
+}
