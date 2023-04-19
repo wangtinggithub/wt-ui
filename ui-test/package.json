@@ -1,6 +1,6 @@
 {
   "name": "wangting22-ui-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "ui-test.common.js",
   "scripts": {
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "wangting22-ui-test": "^1.0.1"
-  }
+  "license": "ISC"
 }

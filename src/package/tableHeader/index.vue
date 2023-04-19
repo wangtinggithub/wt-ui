@@ -20,7 +20,7 @@
 <script>
 import tableItem from './table-item'
 export default {
-  name: "ui-tableHeader",
+  name: "uiTableHeader",
   components: {
     tableItem
   },

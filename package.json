@@ -6,13 +6,14 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "package": "vue-cli-service build --target lib ./src/package/index.js --name ui-test --dest ui-test"
+    "package": "vue-cli-service build --target lib ./src/package/index.js --name ui-test --dest ui-test",
+    "lib:build": "vue-cli-service build  --mode npm"
   },
   "dependencies": {
     "core-js": "^3.8.3",
     "element-ui": "^2.15.3",
     "vue": "^2.6.14",
-    "wangting22-ui-test": "^1.0.1"
+    "wangting22-ui-test": "1.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

@@ -64,7 +64,7 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/button/index.vue?vue&type=template&id=62ff050a&scoped=true&
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/button/index.vue?vue&type=template&id=7e2cc994&scoped=true&
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -73,21 +73,21 @@ var render = function render() {
 var staticRenderFns = [function () {
   var _vm = this,
     _c = _vm._self._c;
-  return _c('div', [_c('button', [_vm._v("我是测试按钮1")])]);
+  return _c('div', [_c('button', [_vm._v("我是测试按钮2")])]);
 }];
 
-;// CONCATENATED MODULE: ./src/package/button/index.vue?vue&type=template&id=62ff050a&scoped=true&
+;// CONCATENATED MODULE: ./src/package/button/index.vue?vue&type=template&id=7e2cc994&scoped=true&
 
 ;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/button/index.vue?vue&type=script&lang=js&
 /* harmony default export */ var buttonvue_type_script_lang_js_ = ({
-  name: "ui-button" //组件名
+  name: "uiButton" //组件名
 });
 ;// CONCATENATED MODULE: ./src/package/button/index.vue?vue&type=script&lang=js&
  /* harmony default export */ var package_buttonvue_type_script_lang_js_ = (buttonvue_type_script_lang_js_); 
-;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-12.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12.use[2]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/button/index.vue?vue&type=style&index=0&id=62ff050a&prod&scoped=true&lang=css&
+;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-12.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12.use[2]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/button/index.vue?vue&type=style&index=0&id=7e2cc994&prod&scoped=true&lang=css&
 // extracted by mini-css-extract-plugin
 
-;// CONCATENATED MODULE: ./src/package/button/index.vue?vue&type=style&index=0&id=62ff050a&prod&scoped=true&lang=css&
+;// CONCATENATED MODULE: ./src/package/button/index.vue?vue&type=style&index=0&id=7e2cc994&prod&scoped=true&lang=css&
 
 ;// CONCATENATED MODULE: ./node_modules/@vue/vue-loader-v15/lib/runtime/componentNormalizer.js
 /* globals __VUE_SSR_CONTEXT__ */
@@ -202,14 +202,14 @@ var component = normalizeComponent(
   staticRenderFns,
   false,
   null,
-  "62ff050a",
+  "7e2cc994",
   null
   
 )
 
 /* harmony default export */ var package_button = (component.exports);
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/tableHeader/index.vue?vue&type=template&id=9383efde&
-var tableHeadervue_type_template_id_9383efde_render = function render() {
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/tableHeader/index.vue?vue&type=template&id=60b8dd7c&
+var tableHeadervue_type_template_id_60b8dd7c_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _c('div', [_c('el-table', {
@@ -235,7 +235,7 @@ var tableHeadervue_type_template_id_9383efde_render = function render() {
     });
   })], 2)], 1);
 };
-var tableHeadervue_type_template_id_9383efde_staticRenderFns = [];
+var tableHeadervue_type_template_id_60b8dd7c_staticRenderFns = [];
 
 ;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/tableHeader/table-item.vue?vue&type=template&id=42a131f0&scoped=true&
 var table_itemvue_type_template_id_42a131f0_scoped_true_render = function render() {
@@ -296,7 +296,7 @@ var table_item_component = normalizeComponent(
 ;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/package/tableHeader/index.vue?vue&type=script&lang=js&
 
 /* harmony default export */ var tableHeadervue_type_script_lang_js_ = ({
-  name: "ui-tableHeader",
+  name: "uiTableHeader",
   components: {
     tableItem: table_item
   },
@@ -319,8 +319,8 @@ var table_item_component = normalizeComponent(
 ;
 var tableHeader_component = normalizeComponent(
   package_tableHeadervue_type_script_lang_js_,
-  tableHeadervue_type_template_id_9383efde_render,
-  tableHeadervue_type_template_id_9383efde_staticRenderFns,
+  tableHeadervue_type_template_id_60b8dd7c_render,
+  tableHeadervue_type_template_id_60b8dd7c_staticRenderFns,
   false,
   null,
   null,

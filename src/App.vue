@@ -1,8 +1,8 @@
 <template>
   <div id="app">
 
-    <ui-tableHeader :tableData='tableData'></ui-tableHeader>
-    <ui-button></ui-button>
+    <uiTableHeader :tableData='tableData'></uiTableHeader>
+    <uiButton></uiButton>
   </div>
 </template>
 
